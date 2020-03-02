@@ -1,0 +1,2 @@
+一个简单的Dubbo项目,先开启zookeeper注册中心，再运行服务提供者provider，服务消费者consumer，interf是公共接口。若有监控平台，要先开启监控平台，
+进入jar包所在目录运行java -jar dubbo-admin-0.0.1-SNAPSHOT.jar
